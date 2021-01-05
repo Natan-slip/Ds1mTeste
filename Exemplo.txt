@@ -1,0 +1,3 @@
+Testar a config
+
+colocar o nome git config --local user.name "Natã"
